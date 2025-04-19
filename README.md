@@ -12,8 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-</div>
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+</div> -->
 
 ### 🔍 About Me
 
@@ -64,8 +64,9 @@
 
 ### 📚 Education
 
-- **Master's in Web Intelligence and Data Science** - Currently pursuing
-- **Bachelor's in Computer Science** - [Your University, Year]
+- **M2:Master’s degree in Computer Science Data Exploration and Decision-Making “EID²”** - [University Sorbonne Paris Nord, foreseen]
+- **Master's in Web Intelligence and Data Science** - [Faculty of Science Fes, Currently pursuing]
+- **Bachelor's in Degree in Science and Technology - Data Analytics** - [Faculty of Science and Technology Tangier, 2024]
 
 ### 📈 GitHub Statistics
 
@@ -80,13 +81,10 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/mohamed-bouchalkha-960855272" target="_blank">
+  <a href="www.linkedin.com/in/mohamed-bouchalkha-960855272" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/donbou01" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:mohamed.bouchalkha1@usmba.ac.ma" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
