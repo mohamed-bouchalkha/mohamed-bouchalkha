@@ -27,11 +27,10 @@ I'm a passionate **Data Scientist-Engineer** specializing in building end-to-end
 
 ### 🎓 Education
 
-**Master's in Web Intelligence and Data Science** | *Currently Pursuing*  
-Faculty of Science, Fez
-
-**M2: Master's in Computer Science - Data Exploration and Decision-Making (EID²)** | *Foreseen*  
+ **M2: Master's in Computer Science - Data Exploration and Decision-Making (EID²)** | *Currently Pursuing*  
 Université Sorbonne Paris Nord
+**Master's in Web Intelligence and Data Science** | *Foreseen*  
+Faculty of Science, Fez
 
 **Bachelor's in Science and Technology - Data Analytics** | *2024*  
 Faculty of Science and Technology, Tangier
@@ -110,7 +109,7 @@ I'm always interested in discussing data science projects, collaboration opportu
 
 <div align="center">
   
-**Email:** mohamed.bouchalkha1@usmba.ac.ma  
+**Email:** mohamedbouchalkha@outlook.com  
 **LinkedIn:** [Mohamed Bouchalkha](https://www.linkedin.com/in/mohamed-bouchalkha-960855272)
 
 </div>
